@@ -15,6 +15,8 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 
  ## 🔎Funcionalidade: Cadastrar Curso🔎 ## 
 
+ ![Página cadastrar curso](https://imgur.com/xN6ERyC.png)
+
  
 
 
