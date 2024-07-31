@@ -17,6 +17,12 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 
  ![Página cadastrar curso](https://imgur.com/xN6ERyC.png)
 
+ ### 🎯User Story (US)🎯 ###
+
+ <p> <b>Eu</b> como um usuário da plataforma Beedoo QA Chalenge </p> 
+<p> <b>Gostaria</b> de realizar, cadastro de cursos na plataforma Beedoo QA Chalenge </p>
+<p> <b>Para</b> que os cursos cadastrados sejam exibidos na página principal</p>
+
  
 
 
