@@ -26,9 +26,12 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 ### 📋Regras de Negócios (RN)📋 ### 
 | ID | Regras |
 | ------------- | ------------- |
-| RN-01 | Possuir um campo de input com uma área label escrito: "Nome do curso"
-| RN-02 | Possuir um campo de input de texto com área label escrito: "Descrição do curso"
- 
+| RN-01 | Possuir um campo de input com uma arial label escrito: "Nome do curso"
+| RN-02 | Possuir um campo de input de texto com uma arial label escrito: "Descrição do curso"
+| RN-03 | Possuir um campo de input com uma arial label escrito: "Instruto"
+| RN-04 | Possuir um campo de input com uma arial label escrito: "URL da imagem da capa"
+| RN-05 | Possuir uma campo de input com arial label escrito: "Data de início" com formato padrão de data brasileiro "dd/mm/aaaa" e com a opção de seleção por calendário. 
+| RN-06 | Possuir uma campo de input com arial label escrito: "Data de fim" com formato padrão de data brasileiro "dd/mm/aaaa" e com a opção de seleção por calendário.
 
 
  
