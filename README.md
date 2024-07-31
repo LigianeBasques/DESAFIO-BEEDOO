@@ -23,6 +23,11 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 <p> <b>Gostaria</b> de realizar, cadastro de cursos na plataforma Beedoo QA Chalenge </p>
 <p> <b>Para</b> que os cursos cadastrados sejam exibidos na página principal</p>
 
+### 📋Regras de Negócios (RN)📋 ### 
+| ID | Regras |
+| ------------- | ------------- |
+| RN-01 | Possuir um campo de input com uma área label escrito: "Nome do curso"
+| RN-02 | Possuir um campo de input de texto com área label escrito: "Descrição do curso"
  
 
 
