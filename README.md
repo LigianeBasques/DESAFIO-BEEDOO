@@ -13,4 +13,11 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 
  O site escolhido para realizar o desafio foi o Beedoo QA Chalenge que é uma plataforma de aprendizado com uma ampla variedade de cursos online/presencial, o qual pode-se: criar, excluir e listar diversos cursos. O site é https://creative-sherbet-a51eac.netlify.app/new-course
 
+ ## 🔎Funcionalidade: Cadastrar Curso🔎 ## 
+
+ 
+
+
+ 
+
 
