@@ -41,7 +41,10 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 ### ✅Critérios de aceite (CA)✅ ####
 | ID | Critérios de aceite |
 | ------------- | ------------- |
-| CA-01 |
+| CA-01 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input: "Nome do curso" </p> <p> <b>Então</b> consigo digitar o nome do curso</p> <p> <b>E</b> o mesmo possui um arial label</p>
+| CA-02 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input: "Nome do curso" </p> <p> <b>Então</b> consigo digitar o nome do curso</p> <p> <b>E</b> o mesmo possui um arial label</p>
+
+
  
 
 
