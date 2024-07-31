@@ -30,9 +30,10 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 | RN-02 | Possuir um campo de input de texto com uma arial label escrito: "Descrição do curso"
 | RN-03 | Possuir um campo de input com uma arial label escrito: "Instruto"
 | RN-04 | Possuir um campo de input com uma arial label escrito: "URL da imagem da capa"
-| RN-05 | Possuir uma campo de input com arial label escrito: "Data de início" com formato padrão de data brasileiro "dd/mm/aaaa" e com a opção de seleção por calendário. 
-| RN-06 | Possuir uma campo de input com arial label escrito: "Data de fim" com formato padrão de data brasileiro "dd/mm/aaaa" e com a opção de seleção por calendário.
-
+| RN-05 | Possuir um campo de input com arial label escrito: "Data de início" com formato padrão de data brasileiro "dd/mm/aaaa" e com a opção de seleção por calendário. 
+| RN-06 | Possuir um campo de input com arial label escrito: "Data de fim" com formato padrão de data brasileiro "dd/mm/aaaa" e com a opção de seleção por calendário.
+| RN-07 | Possuir um campo de input com arial label escrito: "Número de vagas" e um campo seletor númerico
+| RN-08 | Possuir um campo de input com arial label escrito: "Tipo de curso" e um campo seletor com duas opções de escolha de tipo de curso: "Presencial" ou "Oline"
 
  
 
