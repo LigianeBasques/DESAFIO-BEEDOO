@@ -17,6 +17,13 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 
  ![Página cadastrar curso](https://imgur.com/xN6ERyC.png)
 
+ ## 💡Como foram as decisões tomadas para criar user story💡 ## 
+ Antes de criarnos a user story, algumas decisões importantes foram levadas em consideração para que fossem criadas a saber: 
+ - [x] 1- É a forma de escrevermos uma funcionalidade a ser desenvolvida;
+ - [x] 2- Essa forma de escrevermos, todos os integrantes do time ou qualquer pessoa que pegar essa tarefa a ser desenvolvida, terá o entendimento do que deve ser desenvolvido;
+ - [x] 3- Para quem for desenvolver, é importante ter a  empatia do porque o usuário necessita desta demanda, e isso é importante para a integração do time com o cliente. 
+ 
+
  ### 🎯User Story (US)🎯 ###
 
  <p> <b>Eu</b> como um usuário da plataforma Beedoo QA Chalenge </p> 
