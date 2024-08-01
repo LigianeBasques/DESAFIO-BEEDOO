@@ -54,7 +54,7 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 | CA-04 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "URL da imagem da capa" </p> <p> <b>Então</b> consigo inserir o link da imagem da capa</p> <p> <b>E</b> o mesmo possui um arial label</p>
 | CA-05 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "Data de início" </p> <p> <b>Então</b> consigo digitar ou selecionar a data de incio em padrão brasileiro</p> <p> <b>E</b> o mesmo possui um arial label</p> <b>E</b> com a opção de seleção por calendário</p>
 | CA-06 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "Data de fim" </p> <p> <b>Então</b> consigo digitar ou selecionar a data de fim em padrão brasileiro</p> <p> <b>E</b> o mesmo possui um arial label</p> <b>E</b> com a opção de seleção por calendário</p>
-| CA-07 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "Número de vagas" </p> <p> <b>Então</b> consigo digitar ou selecionar a o número de vagas</p> <p> <b>E</b> o mesmo possui um arial label</p> <b>E</b> um campo seletor com duas opções de escolha de tipo de curso: "Presencial" ou "Online"</p>
+| CA-07 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "Número de vagas" </p> <p> <b>Então</b> consigo digitar ou selecionar  o número de vagas</p> <p> <b>E</b> o mesmo possui um arial label</p> <b>E</b> um campo seletor númerico</p>
 
 
  
