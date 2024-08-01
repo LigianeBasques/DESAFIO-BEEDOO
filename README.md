@@ -52,6 +52,7 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 | CA-02 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input de texto: "Descrição do curso" </p> <p> <b>Então</b> consigo digitar uma descrição completa do curso</p> <p> <b>E</b> o mesmo possui um arial label</p>
 | CA-03 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "Instrutor" </p> <p> <b>Então</b> consigo digitar o nome completo do instrutor do curso</p> <p> <b>E</b> o mesmo possui um arial label</p>
 | CA-04 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "URL da imagem da capa" </p> <p> <b>Então</b> consigo inserir o link da imagem da capa</p> <p> <b>E</b> o mesmo possui um arial label</p>
+| CA-05 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "Data de início" </p> <p> <b>Então</b> consigo digitar ou selecionar a data de incio em padrão brasileiro</p> <p> <b>E</b> o mesmo possui um arial label</p> <b>E</b> com a opção de seleção por calendário</p>
 
 
  
