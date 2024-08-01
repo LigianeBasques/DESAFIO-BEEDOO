@@ -58,6 +58,7 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 | CA-08 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "Tipo de curso" </p> <p> <b>Então</b> consigo selecionar o tipo de curso: "Presencial" ou "Online" </p> <p> <b>E</b> o mesmo possui um arial label</p>
 | CA-09 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "Endereço" </p> <p> <b>Então</b> consigo digitar o endereço onde o curso será ministrado </p> <p> <b>E</b> o mesmo possui um arial label</p>
 | CA-10 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "Link de inscrição" </p> <p> <b>Então</b> consigo inserir o link de inscrição do curso </p> <p> <b>E</b> o mesmo possui um arial label</p>
+| CA-11 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> clico no botão : "CADASTRAR CURSO" </p> <p> <b>Então</b> consigo cadastrar cursos  </p> <p> <b>E</b> o mesmo é da cor amarelo </p> <b>E</b> com letras em caixa alta da cor branca </p>
 
 
  
