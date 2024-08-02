@@ -61,7 +61,12 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 | CA-11 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> clico no botão : "CADASTRAR CURSO" </p> <p> <b>Então</b> consigo cadastrar cursos  </p> <p> <b>E</b> o mesmo é da cor amarelo </p> <b>E</b> com letras em caixa alta da cor branca </p>
 
 ## 📝Cenários e Casos de testes (CTs)📝 ##
-### ✔️Casos de testes de sucesso✔️ ###
+ ### 🔎Funcionalidade: Cadastrar Curso🔎 ### 
+#### ✔️Casos de testes de sucesso✔️ ####
+
+Segue o link abaixo do cenário e casos de testes da funcionalidade: Cadastrar curso
+
+https://docs.google.com/spreadsheets/d/1Mwl2F-swOfGMZjqZzgiyyh8Hue7fJuMvpn6GQ44I1EE/edit?usp=drive_link
 
 
 
