@@ -71,6 +71,9 @@ Segue o link abaixo do cenário e casos de testes da funcionalidade: Cadastrar c
 Segue o link abaixo das evidências do cenário e casos de testes da funcionalidade: Cadastrar curso
 <li> <a href="https://drive.google.com/drive/folders/1BlstsOAtzJOD4H7_2aZwtJHuUdBg-sBi?usp=sharing" rel=nofollow>EVIDÊNCIAS E CASOS DE TESTE-SUCESSO</a><//li>
 
+### 🔎Funcionalidade: Cadastrar Curso🔎 ### 
+#### ❌Casos de testes de erro❌ ####
+
 
 
 
