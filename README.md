@@ -84,6 +84,19 @@ Segue o link abaixo das evidências do cenário e casos de testes da funcionalid
 
 
 ## 👀Funcionalidade: Listar Cursos👀 ## 
+![Página Listar curso](https://imgur.com/qCCkzU1.png)
+
+## 💡Como foram as decisões tomadas para criar user story💡 ## 
+ Antes de criarnos a user story, algumas decisões importantes foram levadas em consideração para que fossem criadas a saber: 
+ - [x] 1- É a forma de escrevermos uma funcionalidade a ser desenvolvida;
+ - [x] 2- Essa forma de escrevermos, todos os integrantes do time ou qualquer pessoa que pegar essa tarefa a ser desenvolvida, terá o entendimento do que deve ser desenvolvido;
+ - [x] 3- Para quem for desenvolver, é importante ter a  empatia do porque o usuário necessita desta demanda, e isso é importante para a integração do time com o cliente.
+
+ ### 🎯User Story (US 02)🎯 ###
+
+ <p> <b>Eu</b> como um usuário da plataforma Beedoo QA Chalenge </p> 
+<p> <b>Gostaria</b> de realizar, cadastro de cursos na plataforma Beedoo QA Chalenge </p>
+<p> <b>Para</b> que os cursos cadastrados sejam exibidos na página principal</p>
 
 
 
