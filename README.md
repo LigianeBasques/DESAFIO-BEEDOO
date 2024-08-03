@@ -95,8 +95,13 @@ Segue o link abaixo das evidências do cenário e casos de testes da funcionalid
  ### 🎯User Story (US 02)🎯 ###
 
  <p> <b>Eu</b> como um usuário da plataforma Beedoo QA Chalenge </p> 
-<p> <b>Gostaria</b> de realizar, cadastro de cursos na plataforma Beedoo QA Chalenge </p>
-<p> <b>Para</b> que os cursos cadastrados sejam exibidos na página principal</p>
+<p> <b>Gostaria</b> de listar, todos os cursos cadastrados na plataforma Beedoo QA Chalenge </p>
+<p> <b>Para</b> que possa visualizar todos os cursos cadastrados </p>
+
+### 📋Regras de Negócios (RN)📋 ### 
+| ID | Regras |
+| ------------- | ------------- |
+| RN-13 | Possuir header com as funcionalidades: Listar cursos e cadastrar curso
 
 
 
