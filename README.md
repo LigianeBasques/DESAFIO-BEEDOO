@@ -24,7 +24,7 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
  - [x] 3- Para quem for desenvolver, é importante ter a  empatia do porque o usuário necessita desta demanda, e isso é importante para a integração do time com o cliente. 
  
 
- ### 🎯User Story (US)🎯 ###
+ ### 🎯User Story (US 01)🎯 ###
 
  <p> <b>Eu</b> como um usuário da plataforma Beedoo QA Chalenge </p> 
 <p> <b>Gostaria</b> de realizar, cadastro de cursos na plataforma Beedoo QA Chalenge </p>
@@ -81,6 +81,9 @@ Segue o link abaixo do cenário e casos de testes da funcionalidade: Cadastrar c
 ### 🤦‍♀️Evidências dos cenário e casos de testes-erro🤦‍♀️ ### 
 Segue o link abaixo das evidências do cenário e casos de testes da funcionalidade: Cadastrar curso
 <li> <a href="https://drive.google.com/drive/folders/1wvi3rU78zZVD36_5SFvtlF8kPn6HT01G?usp=sharing" rel=nofollow>EVIDÊNCIAS DOS CASOS DE TESTE-ERRO</a><//li>
+
+
+## 👀Funcionalidade: Listar Cursos👀 ## 
 
 
 
