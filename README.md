@@ -78,6 +78,10 @@ Segue o link abaixo das evidências do cenário e casos de testes da funcionalid
 Segue o link abaixo do cenário e casos de testes da funcionalidade: Cadastrar curso
 <li> <a href="https://docs.google.com/spreadsheets/d/1Rg40PCLEh7OVkx4lnQ9UceKVNVKPlGctU993fINJ6tM/edit?usp=sharing" rel=nofollow>CENÁRIO E CASOS DE TESTE-ERRO</a><//li>
 
+### 🤦‍♀️Evidências dos cenário e casos de testes-erro🤦‍♀️ ### 
+Segue o link abaixo das evidências do cenário e casos de testes da funcionalidade: Cadastrar curso
+<li> <a href="https://drive.google.com/drive/folders/1wvi3rU78zZVD36_5SFvtlF8kPn6HT01G?usp=sharing" rel=nofollow>EVIDÊNCIAS DOS CASOS DE TESTE-ERRO</a><//li>
+
 
 
 
