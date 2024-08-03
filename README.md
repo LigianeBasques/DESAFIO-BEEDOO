@@ -67,6 +67,11 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 Segue o link abaixo do cenário e casos de testes da funcionalidade: Cadastrar curso
 <li> <a href="https://docs.google.com/spreadsheets/d/1Mwl2F-swOfGMZjqZzgiyyh8Hue7fJuMvpn6GQ44I1EE/edit?usp=sharing" rel=nofollow>CENÁRIO E CASOS DE TESTE-SUCESSO</a><//li>
 
+### 🤓Evidências dos cenário e casos de testes-sucesso🤓 ### 
+Segue o link abaixo das evidências do cenário e casos de testes da funcionalidade: Cadastrar curso
+<li> <a href="https://drive.google.com/drive/folders/1BlstsOAtzJOD4H7_2aZwtJHuUdBg-sBi?usp=sharing" rel=nofollow>EVIDÊNCIAS E CASOS DE TESTE-SUCESSO</a><//li>
+
+
 
 
 
