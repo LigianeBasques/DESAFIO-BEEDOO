@@ -64,9 +64,9 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
  ### 🔎Funcionalidade: Cadastrar Curso🔎 ### 
 #### ✔️Casos de testes de sucesso✔️ ####
 
-Segue o link abaixo do cenário e casos de testes da funcionalidade: Cadastrar curso
+Segue o link ao lado do cenário e casos de testes da funcionalidade: Cadastrar curso
+https://docs.google.com/spreadsheets/d/1Mwl2F-swOfGMZjqZzgiyyh8Hue7fJuMvpn6GQ44I1EE/edit?usp=sharing
 
-https://docs.google.com/spreadsheets/d/1Mwl2F-swOfGMZjqZzgiyyh8Hue7fJuMvpn6GQ44I1EE/edit?usp=drive_link
 
 
 
