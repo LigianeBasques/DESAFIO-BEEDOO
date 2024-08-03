@@ -44,6 +44,7 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 | RN-09 | Se a escolha do tipo de curso for: "Presencial", possuir um campo de input arial label escrito: "Endereço"
 | RN-10 | Se a escolha do tipo de curso for: "Online", possuir um campo de input arial label escrito: "Link de inscrição"
 | RN-11 | Possuir um botão clicavel na cor amarela escrito ao centro a palavra: "CADASTRAR CURSO" escrito tudo em caixa alta e na cor branca
+| RN-12 | Após o cadastrar o curso irá aparecer uma mensagem: "Curso cadastrado com sucesso"
 
 ### ✅Critérios de aceite (CA)✅ ####
 | ID | Critérios de aceite |
