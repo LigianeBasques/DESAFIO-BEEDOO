@@ -60,6 +60,7 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 | CA-09 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "Endereço" </p> <p> <b>Então</b> consigo digitar o endereço onde o curso será ministrado </p> <p> <b>E</b> o mesmo possui um arial label</p>
 | CA-10 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> visualizo o campo input : "Link de inscrição" </p> <p> <b>Então</b> consigo inserir o link de inscrição do curso </p> <p> <b>E</b> o mesmo possui um arial label</p>
 | CA-11 | <p> <b>Dado</b> que estou na página de cadastrar curso </p> <p> <b>Quando</b> clico no botão : "CADASTRAR CURSO" </p> <p> <b>Então</b> consigo cadastrar cursos  </p> <p> <b>E</b> o mesmo é da cor amarelo </p> <b>E</b> com letras em caixa alta da cor branca </p>
+| CA-12 | <p> <b>Dado</b> que preenchi todos os dados de cadastro do curso </p> <p> <b>Quando</b> clico no botão : "CADASTRAR CURSO" </p> <p> <b>Então</b> aparece uma mensagem: "Curso cadastrado com sucesso" </p> 
 
 ## 📝Cenários e Casos de testes (CTs)📝 ##
  ### 🔎Funcionalidade: Cadastrar Curso🔎 ### 
