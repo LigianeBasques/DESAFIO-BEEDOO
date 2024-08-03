@@ -33,16 +33,16 @@ Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é ava
 ### 📋Regras de Negócios (RN)📋 ### 
 | ID | Regras |
 | ------------- | ------------- |
-| RN-01 | Possuir um campo de input com uma arial label escrito: "Nome do curso"
-| RN-02 | Possuir um campo de input de texto com uma arial label escrito: "Descrição do curso"
-| RN-03 | Possuir um campo de input com uma arial label escrito: "Instrutor"
+| RN-01 | Possuir um campo de input com uma arial label escrito: "Nome do curso" campo obrigatório
+| RN-02 | Possuir um campo de input de texto com uma arial label escrito: "Descrição do curso" campo obrigatório
+| RN-03 | Possuir um campo de input com uma arial label escrito: "Instrutor" campo obrigatório
 | RN-04 | Possuir um campo de input com uma arial label escrito: "URL da imagem da capa"
-| RN-05 | Possuir um campo de input com arial label escrito: "Data de início" com formato padrão de data brasileiro "dd/mm/aaaa" e com a opção de seleção por calendário. 
-| RN-06 | Possuir um campo de input com arial label escrito: "Data de fim" com formato padrão de data brasileiro "dd/mm/aaaa" e com a opção de seleção por calendário.
-| RN-07 | Possuir um campo de input com arial label escrito: "Número de vagas" e um campo seletor númerico
-| RN-08 | Possuir um campo de input com arial label escrito: "Tipo de curso" e um campo seletor com duas opções de escolha de tipo de curso: "Presencial" ou "Online"
-| RN-09 | Se a escolha do tipo de curso for: "Presencial", possuir um campo de input arial label escrito: "Endereço"
-| RN-10 | Se a escolha do tipo de curso for: "Online", possuir um campo de input arial label escrito: "Link de inscrição"
+| RN-05 | Possuir um campo de input com arial label escrito: "Data de início" com formato padrão de data brasileiro "dd/mm/aaaa" e com a opção de seleção por calendário.campo obrigatório 
+| RN-06 | Possuir um campo de input com arial label escrito: "Data de fim" com formato padrão de data brasileiro "dd/mm/aaaa" e com a opção de seleção por calendário. campo obrigatório
+| RN-07 | Possuir um campo de input com arial label escrito: "Número de vagas" e um campo seletor númerico campo obrigatório
+| RN-08 | Possuir um campo de input com arial label escrito: "Tipo de curso" e um campo seletor com duas opções de escolha de tipo de curso: "Presencial" ou "Online" campo obrigatório
+| RN-09 | Se a escolha do tipo de curso for: "Presencial", possuir um campo de input arial label escrito: "Endereço" campo obrigatório
+| RN-10 | Se a escolha do tipo de curso for: "Online", possuir um campo de input arial label escrito: "Link de inscrição" campo obrigatório
 | RN-11 | Possuir um botão clicavel na cor amarela escrito ao centro a palavra: "CADASTRAR CURSO" escrito tudo em caixa alta e na cor branca
 | RN-12 | Após o cadastrar o curso irá aparecer uma mensagem: "Curso cadastrado com sucesso"
 
