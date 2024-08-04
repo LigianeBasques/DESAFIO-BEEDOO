@@ -133,6 +133,11 @@ Segue o link abaixo das evidências do cenário e casos de testes da funcionalid
 
 <li> <a href="https://drive.google.com/drive/folders/1iMYqR_R9_9hVMsljJ-kWZJkf6pWUT0j_?usp=sharing" rel=nofollow>EVIDÊNCIAS DOS CASOS DE TESTE-SUCESSO</a><//li>
 
+### 👀Funcionalidade: Listar Curso👀 ### 
+#### ❌Casos de testes de erro❌ ####
+Segue o link abaixo do cenário e casos de testes da funcionalidade: Cadastrar curso
+<li> <a href="https://docs.google.com/spreadsheets/d/1Rg40PCLEh7OVkx4lnQ9UceKVNVKPlGctU993fINJ6tM/edit?usp=sharing" rel=nofollow>CENÁRIO E CASOS DE TESTE-ERRO</a><//li>
+
 
 
 
