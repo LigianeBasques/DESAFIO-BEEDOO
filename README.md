@@ -102,6 +102,14 @@ Segue o link abaixo das evidências do cenário e casos de testes da funcionalid
 | ID | Regras |
 | ------------- | ------------- |
 | RN-13 | Possuir header com as funcionalidades: Listar cursos e cadastrar curso
+| RN-14 | Exibir as listas de cursos já cadastrados
+| RN-15 | Exibir todas as informações dos cursos cadastrados
+| RN-16 | Exibir um botão "EXCLUIR CURSO"
+| RN-17 | Exibir um botão "EDITAR CURSO"
+| RN-18 | Exibir o número de 4 cursos por página
+| RN-19 | Exibir uma mensagem de alerta de exclusão de curso: "Curso excluido com sucesso"
+| RN-20 | Exibir uma mensagem de alerta de edição de curso: "Curso editado com sucesso"
+
 
 
 
