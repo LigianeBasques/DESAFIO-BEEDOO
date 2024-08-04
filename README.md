@@ -179,6 +179,7 @@ Bom, eu utiliziei uma norma a IEEE 1044 é uma norma da IEEE (Institute of Elect
 | ME-07 | Poderia ter um footer na páginas
 | ME-08 | Poderia ter um diario de classe com o nome dos alunos matriculados naquele curso
 | ME-09 | Poderia ter um campo para o aluno tirar dúvidas com o instrutor do curso de forma virtual. 
+| ME-10 | Poderia ter um item chamado: "forum", onde os alunos trocam ideias, sobre determinado assunto referente ao curso
 
 
 
