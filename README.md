@@ -153,7 +153,7 @@ Segue o link abaixo dos bugs encontrados nas funcionalidades: Cadastrar curso e 
 ### 🔎Evidências dos BUGS🔎 ### 
 Segue o link abaixo das evidências dos bugs encontrados nas funcionalidades: Cadastrar curso e listar curso
 
-<li> <a href="https://drive.google.com/drive/folders/1DvVWolqI1-1xX2iPYw9m9T4IiQtK4cKs?usp=sharing" rel=nofollow>EVIDÊNCIAS DOS BUGS ENCONTRADOS</a></li>li>
+<li> <a href="https://drive.google.com/drive/folders/1DvVWolqI1-1xX2iPYw9m9T4IiQtK4cKs?usp=sharing" rel=nofollow>EVIDÊNCIAS DOS BUGS ENCONTRADOS</a></li>
 
 
 
