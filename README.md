@@ -167,6 +167,11 @@ Bom, eu utiliziei uma norma a IEEE 1044 é uma norma da IEEE (Institute of Elect
 - [x] 4- **Comunicação e Relatórios**: Diretrizes para comunicar os problemas identificados às partes interessadas e para gerar relatórios sobre o status das anomalias, o progresso das correções e outros aspectos relevantes.
 
 
+## 🚀Sujestão de melhorias🚀 ## 
+| ID | Regras |
+| ------------- | ------------- |
+| RN-13 | Possuir header com as funcionalidades: Listar cursos e cadastrar curso
+
 
 
 
