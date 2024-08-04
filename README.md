@@ -113,7 +113,9 @@ Segue o link abaixo das evidências do cenário e casos de testes da funcionalid
 ### ✅Critérios de aceite (CA)✅ ####
 | ID | Critérios de aceite |
 | ------------- | ------------- |
-| CA-01 | <p> <b>Dado</b> que estou na página de listar curso </p> <p> <b>Quando</b> clico em "LISTAR CURSOS" </p> <p> <b>Então</b> os cursos cadastrados são exibidos</p> 
+| CA-13 | <p> <b>Dado</b> que estou na página de listar curso </p> <p> <b>Quando</b> visualizo o header </p> <p> <b>Então</b> os botões: "LISTAR CURSOS" e "CADSTRAR CURSOS" são exibidos</p>
+| CA-14 | <p> <b>Dado</b> que estou na página de listar curso </p> <p> <b>Quando</b> clico em "LISTAR CURSOS" </p> <p> <b>Então</b> os cursos cadastrados são exibidos</p>
+| CA-15 | <p> <b>Dado</b> que estou na página de listar curso </p> <p> <b>Quando</b> listo os cursos </p> <p> <b>Então</b> são exibidas todas as informações cadastradas no curso</p>
 
 
 
