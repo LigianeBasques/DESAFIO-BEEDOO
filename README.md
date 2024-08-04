@@ -158,6 +158,8 @@ Segue o link abaixo das evidências dos bugs encontrados nas funcionalidades: Ca
 
 <li> <a href="https://drive.google.com/drive/folders/1DvVWolqI1-1xX2iPYw9m9T4IiQtK4cKs?usp=sharing" rel=nofollow>EVIDÊNCIAS DOS BUGS ENCONTRADOS</a></li>
 
+### ✏️Metodologia utilizada para gerar o relatório de BUGS✏️ ###
+
 
 
 
