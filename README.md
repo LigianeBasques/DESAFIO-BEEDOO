@@ -167,10 +167,18 @@ Bom, eu utiliziei uma norma a IEEE 1044 é uma norma da IEEE (Institute of Elect
 - [x] 4- **Comunicação e Relatórios**: Diretrizes para comunicar os problemas identificados às partes interessadas e para gerar relatórios sobre o status das anomalias, o progresso das correções e outros aspectos relevantes.
 
 
-## 🚀Sujestão de melhorias🚀 ## 
-| ID | Regras |
+## 🚀Sujestão de melhorias(ME)🚀 ## 
+| ID | Melhorias |
 | ------------- | ------------- |
-| RN-13 | Possuir header com as funcionalidades: Listar cursos e cadastrar curso
+| ME-01 | Poderia haver um botão de "Editar curso", na funcionalidade listar cursos
+| ME-02 | Poderia haver um campo de pesquisar curso, na funcionalidade listar cursos
+| ME-03 | Poderia haver filtros, para filtrar os cursos por exemplo, por categoria
+| ME-04 | Poderia ter uma função para favoritar os cursos na listagem de cursos
+| ME-05 | O botão de "cadastrar curso" da funcionalidade cadastrar curso, poderia está desabilitado em quanto não fossem preenchidos todos os itens
+| ME-06 | Todos os campos poderiam ter o preenchimento obrigatórios
+| ME-07 | Poderia ter um footer na páginas
+| ME-08 | Poderia ter um diario de classe com o nome dos alunos matriculados naquele curso
+| ME-09 | Poderia ter um campo para o aluno tirar dúvidas com o instrutor do curso de forma virtual. 
 
 
 
