@@ -143,6 +143,12 @@ Segue o link abaixo das evidências do cenário e casos de testes da funcionalid
 <li> <a href="https://drive.google.com/drive/folders/1SHSjB6WjVPJEBKzqvkKgUbwJ0-5EsNDt?usp=sharing" rel=nofollow>EVIDÊNCIAS DOS CASOS DE TESTE-ERRO</a><//li>
 
 
+## 🐞BUGS🐞 ##
+
+
+
+
+
 
 
 
