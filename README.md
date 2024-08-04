@@ -151,6 +151,8 @@ Segue o link abaixo dos bugs encontrados nas funcionalidades: Cadastrar curso e 
 <li> <a href="https://docs.google.com/spreadsheets/d/18NeWNUlNz84FyTj6eSPCABbhYMUTilDANzZLGVJnnLc/edit?usp=sharing" rel=nofollow>RELATÓRIO DOS BUGS ENCONTRADOS</a></li>
 
 **Através do relatório de bugs, você pode usar os filtros para gerenciar a quantidade, status, severidade e prioridade dos bugs. Foi aplicado nessa planilha filtros. Segue o link abaixo do video de como aplicar os filtros para gerenciar os bugs encontrados**. 
+<li> <a href="https://drive.google.com/file/d/1PGe67pCfxzerwKHDeW62gHnD_rvT50W2/view?usp=sharing" rel=nofollow>FILTROS PARA GERENCIAR O RELATÓRIO DE BUGS</a></li>
+
 ### 🔎Evidências dos BUGS🔎 ### 
 Segue o link abaixo das evidências dos bugs encontrados nas funcionalidades: Cadastrar curso e listar curso
 
