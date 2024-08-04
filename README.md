@@ -121,6 +121,12 @@ Segue o link abaixo das evidências do cenário e casos de testes da funcionalid
 | CA-18 | <p> <b>Dado</b> que estou na página de listar curso </p> <p> <b>Quando</b> clico no botão: "EXCLUIR CURSO" </p> <p> <b>Então</b> é exibido uma mensagem:"Curso excluido com sucesso"</p>
 | CA-19 | <p> <b>Dado</b> que estou na página de listar curso </p> <p> <b>Quando</b> clico no botão: "EDITAR CURSO" </p> <p> <b>Então</b> é exibido uma mensagem:"Curso editado com sucesso"</p>
 
+## 📝Cenários e Casos de testes (CTs)📝 ##
+ ### 👀Funcionalidade: Listar Curso👀 ### 
+#### ✔️Casos de testes de sucesso✔️ ####
+
+Segue o link abaixo do cenário e casos de testes da funcionalidade: Listar curso
+
 
 
 
