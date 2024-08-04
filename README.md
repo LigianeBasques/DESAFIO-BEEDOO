@@ -145,6 +145,11 @@ Segue o link abaixo das evidências do cenário e casos de testes da funcionalid
 
 ## 🐞BUGS🐞 ##
 
+### 🤦‍♀️BUGS encontrados🤦‍♀️ ### 
+Segue o link abaixo dos bugs encontrados nas funcionalidades: Cadastrar curso e listar curso
+
+<li> <a href="https://docs.google.com/spreadsheets/d/18NeWNUlNz84FyTj6eSPCABbhYMUTilDANzZLGVJnnLc/edit?usp=sharing" rel=nofollow>BUGS ENCONTRADOS</a><//li>
+
 
 
 
