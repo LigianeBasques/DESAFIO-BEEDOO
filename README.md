@@ -159,6 +159,14 @@ Segue o link abaixo das evidências dos bugs encontrados nas funcionalidades: Ca
 <li> <a href="https://drive.google.com/drive/folders/1DvVWolqI1-1xX2iPYw9m9T4IiQtK4cKs?usp=sharing" rel=nofollow>EVIDÊNCIAS DOS BUGS ENCONTRADOS</a></li>
 
 ### ✏️Metodologia utilizada para gerar o relatório de BUGS✏️ ###
+Bom, eu utiliziei uma norma a IEEE 1044 é uma norma da IEEE (Institute of Electrical and Electronics Engineers), que fornece um framework para o gerenciamento de anomalias em projetos de software e sistemas.
+### ✏️Por que foi escolhida essa metodologia✏️ ###
+- [x] 1-Processo de Registro:inclui a criação de relatórios de problemas que descrevem o defeito, as condições em que foi encontrado, e os impactos;
+- [x] 2-Classificação e Priorização:  Define métodos para classificar e priorizar anomalias com base em sua severidade e impacto, ajudando a equipe a focar na resolução dos problemas mais críticos primeiro.
+- [x] 3- Rastreamento e Resolução: Estabelece processos para o acompanhamento do status das anomalias desde a identificação até a resolução, incluindo a verificação e validação das correções aplicadas.
+- [x] 4- Comunicação e Relatórios: Diretrizes para comunicar os problemas identificados às partes interessadas e para gerar relatórios sobre o status das anomalias, o progresso das correções e outros aspectos relevantes.
+
+
 
 
 
