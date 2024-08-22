@@ -1,7 +1,7 @@
 
 Este desafio tem o objetivo de avaliar conhecimentos e habilidades em teste de software.
 
-# Desafio | Analista de Qualidade de Software Júnior #
+# Desafio | Analista de Qualidade de Software #
 
 ## 👀Visão Geral👀 ##
 Esse desafio foi proposto pela empresa **Beedoo AI Learning**, o objetivo é avaliar conhecimentos e habilidades em teste de software.
